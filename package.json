@@ -23,7 +23,7 @@
   "dependencies": {
     "follow": "0.11.x",
     "request": "2.x.x",
-    "vargs": "0.1.0"
+    "vargs": "git://github.com/mike-lang/vargs.git"
   },
   "devDependencies": {
     "async": "~0.9.0",
